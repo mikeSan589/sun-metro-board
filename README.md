@@ -1,7 +1,7 @@
 # sun-metro-board
 
 Next bus departures for Sun Metro (El Paso) in the terminal, from the
-agency's public GTFS feed. No dependencies, needs JDK 17+.
+agency's public GTFS feed. No dependencies, needs JDK 17
 
 ```
 javac -d out src/sunboard/*.java
