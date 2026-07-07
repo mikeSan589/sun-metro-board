@@ -1,0 +1,4 @@
+out/
+*.class
+google_transit.zip
+test_feed.zip
